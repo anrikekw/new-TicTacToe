@@ -1,0 +1,58 @@
+#tiles{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 400px;
+    margin-left: 120px;
+
+}
+#gameplay{
+    display: flex;
+    
+}
+h1{
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-left:560px;
+    margin-top: 100px;
+    font-size: 50px;
+    margin-right: 0;
+    
+}
+.players{    
+    display:inline;
+    font-size: 50px;
+    margin-right: 0;
+}
+#plcont{
+    display:flex;
+    flex-direction: column;
+}
+
+.players{
+    width: 150px;
+    font-size: 30px;
+    margin-left: 200px;
+}
+#afterwin{
+    font-size: 50px;
+    margin-top: 100px;
+    color:rgb(121, 121, 35);
+
+}
+#btn1{
+    border: 3px solid black;
+    height: 50px;
+    width: 70px;
+    margin-top:50px;
+    margin-left: 250px;
+}
